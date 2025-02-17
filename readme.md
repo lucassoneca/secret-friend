@@ -31,3 +31,8 @@ Este projeto é um simples sistema de sorteio de amigos, desenvolvido para forta
 
 Divirta-se sorteando amigos! 😊
 
+## O jogo está disponível no site: 
+https://secret-friend-fawn.vercel.app/
+
+a hospedagem é gratuita, peço que não entre muito para o host não sair do ar ☺️
+
